@@ -1,6 +1,10 @@
 # Olá! 👋 Eu sou o Julio Vitor Rufino
 
 Sou Analista de Sistemas com foco em desenvolvimento web, banco de dados e integração de sistemas corporativos. Tenho experiência em criar soluções automatizadas, desenvolver dashboards de análise de dados e gerenciar infraestruturas técnicas.
+Atualmente trabalho na instituição de ensino FESO - Fundação Educacional Serra dos Orgãos como Analista de Sistemas. 
+
+Estou desenvolvendo o projeto de game que visa revitalizar o clássico Brasfoot, adaptando-o para a atualidade. Desenvolvi uma versão totalmente baseada em web, enriquecida com animações modernas e uma interface intuitiva, oferecendo uma experiência renovada e acessível.
+<link>https://webfoots.netlify.app</link>
 
 ## 🛠 Tecnologias e Habilidades
 
