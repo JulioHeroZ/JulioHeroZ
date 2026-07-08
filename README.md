@@ -11,7 +11,7 @@ Sou Analista de Sistemas com foco em desenvolvimento web, banco de dados e integ
 *   **Fluig:** Desenvolvimento e integração de Datasets.
 
 ### 💻 Desenvolvimento Web & Backend
-*   **Linguagens:** PHP, JavaScript.
+*   **Linguagens:** JavaScript, React, Vite, Vue, Oracle SQL, Flutter e Dart.
 *   **Servidores & Ferramentas:** WampServer.
 
 ### ⚙️ Infraestrutura, DevOps & Automação
