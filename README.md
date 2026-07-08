@@ -2,6 +2,7 @@
 ## Analista de Sistemas | SQL, Oracle SQL Developer | Javascript | NodeJS | ReactJS | Vue | Vite
 Meus projetos privados estão no meu LinkedIn: 
 <link>www.linkedin.com/in/julio-vitor-rufino-66572416a</link>
+
 ------------------------------------------------------------------------------------------------------
 ## Habilidades em:
 <div>
